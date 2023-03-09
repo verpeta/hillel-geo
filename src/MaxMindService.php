@@ -1,6 +1,6 @@
 <?php
 
-namespace HillelGeo;
+namespace verpeta\HillelGeo;
 
 use GeoIp2\Database\Reader;
 use GeoIp2\Exception\AddressNotFoundException;

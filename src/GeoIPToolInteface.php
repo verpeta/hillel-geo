@@ -1,6 +1,6 @@
 <?php
 
-namespace HillelGeo;
+namespace verpeta\HillelGeo;
 
 interface GeoIPToolInteface
 {
