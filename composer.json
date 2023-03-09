@@ -1,5 +1,5 @@
 {
-  "name": "vladislavverpeta/hillel-geo",
+  "name": "verpeta/hillel-geo",
   "description": "Geo service",
   "type": "library",
   "autoload": {
