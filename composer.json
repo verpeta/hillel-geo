@@ -9,7 +9,7 @@
   },
   "require": {
     "php": "^8.1",
-    "illuminate/support": "^9.*",
+    "illuminate/support": "^9.14",
     "geoip2/geoip2": "^2.13"
   },
   "minimum-stability": "stable"
