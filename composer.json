@@ -12,5 +12,6 @@
     "illuminate/support": "v9.43.0",
     "geoip2/geoip2": "^2.13"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "minimum-stability": "stable"
 }
